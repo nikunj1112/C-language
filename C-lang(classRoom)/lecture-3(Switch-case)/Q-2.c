@@ -2,13 +2,11 @@
 
 #include <stdio.h>
 #include <conio.h>
-int main()
-{
+int main(){
     int month;
     printf("enter a month between(1-12)");
     scanf("%d", &month);
-    switch (month)
-    {
+    switch (month){
     case 1:
         printf("january");
         break;
