@@ -1,4 +1,4 @@
-// WAP to print month names using switch case.
+//(Q-2) WAP to print month names using switch case.
 
 #include <stdio.h>
 #include <conio.h>
