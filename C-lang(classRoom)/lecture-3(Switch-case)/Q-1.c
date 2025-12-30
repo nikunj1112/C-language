@@ -3,8 +3,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main()
-{
+int main(){
     int lang, choice;
 
     printf("Welcome to Telecom Service\n");
@@ -13,8 +12,7 @@ int main()
     printf("Enter your choice: ");
     scanf("%d", &lang);
 
-    switch (lang)
-    {
+    switch (lang){
 
     case 1: // English menu
         printf("\nYou selected English\n");
@@ -24,8 +22,7 @@ int main()
         printf("Enter your choice: ");
         scanf("%d", &choice);
 
-        switch (choice)
-        {
+        switch (choice){
         case 1:
             printf("\nYour current balance is Rs. 199\n");
             break;
@@ -48,8 +45,7 @@ int main()
         printf("Apna vikalp dijiye: ");
         scanf("%d", &choice);
 
-        switch (choice)
-        {
+        switch (choice){
         case 1:
             printf("\nAapka balance Rs. 199 hai\n");
             break;
