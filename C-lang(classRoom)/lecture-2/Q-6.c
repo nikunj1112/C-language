@@ -1,4 +1,4 @@
-//(Q-5) wap to find area of triangle
+//(Q-6) wap to find area of triangle
 
 #include<stdio.h>
 #include<conio.h>
@@ -15,3 +15,4 @@ void main(){
 	ans = 0.5 * base * height;
 	printf("Area of a triangle : %.2f",ans);
 }
+
