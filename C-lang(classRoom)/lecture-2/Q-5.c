@@ -1,4 +1,4 @@
-//(Q-5)wap to find area of rectangle.
+//(Q-5) wap to find area of rectangle.
 
 #include<stdio.h>
 #include<conio.h>
@@ -16,4 +16,5 @@ void main(){
 	printf("Area of rectangle : %d",ans);
   
 }
+
 
