@@ -4,5 +4,5 @@
 
 ---
 
+![ChatGPT Image Jan 1, 2026, 08_00_00 PM](https://github.com/user-attachments/assets/03401999-0ae7-45f3-a743-adab8b4094e2)
 
-<img width="1536" height="1024" alt="C53E125A-FC38-4790-AD15-81E047C3166A" src="https://github.com/user-attachments/assets/00a91b83-671f-444e-b1f2-f3217846593b" />
