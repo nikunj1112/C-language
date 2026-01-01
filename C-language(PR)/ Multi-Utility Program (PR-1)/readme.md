@@ -1,6 +1,6 @@
 # (Q-1) Develop a program that converts temperature form degrees celsius to fahrenheit using the formula : F=(9/5*C)+32.
 
-    ![Q-1](https://github.com/user-attachments/assets/8f798bdb-f74c-4c0b-9fd3-61c2a9eeb6bf)
+![Q-1](https://github.com/user-attachments/assets/9b44e622-8532-4742-bf49-4136c0351294)
 
 
 ---
