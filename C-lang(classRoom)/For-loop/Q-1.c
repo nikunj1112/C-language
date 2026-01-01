@@ -1,4 +1,4 @@
-//(Q-1) wap to print 1 to 10 using for loop.
+//(Q-1) wap to print 1 to 10 using for loop
 
 #include<stdio.h>
 #include<conio.h>
