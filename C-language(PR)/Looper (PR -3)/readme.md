@@ -4,8 +4,7 @@ This document contains 3 C programs demonstrating loop, arithmetic operations, a
 
 ---
 
-## ✅ Q.1) Alphabet Skipper  
-# Develop a program that prints all alphabets from "a' to "z' by skipping 3 alphabets using a do-while loop.
+## ✅ Q.1) Alphabet Skipper : Develop a program that prints all alphabets from "a' to "z' by skipping 3 alphabets using a do-while loop.
 
 ### 📌 **Problem Statement**
 Develop a program that prints all alphabets from **'a' to 'z'** by **skipping 3 alphabets** using a **do-while loop**.
@@ -32,7 +31,7 @@ a e i m q u y
 
 ---
 
-## ✅ **Q.2) Digit Counter** Develop a Program to count the total number of digits in a number.
+## ✅ Q.2) Digit Counter : Develop a Program to count the total number of digits in a number.
 
 ### 📌 **Problem Statement**
 Develop a program to **count total digits** in a number.
@@ -59,7 +58,7 @@ Output: Total number of digits: 5
 
 ---
 
-## ✅ **Q.3) Digit Addition** Develop a Program to find the sum of a number's first and last digits.
+## ✅ Q.3) Digit Addition : Develop a Program to find the sum of a number's first and last digits.
 
 ### 📌 **Problem Statement**
 Develop a program to **find the sum of the first and last digits** of a number.
@@ -78,10 +77,9 @@ Develop a program to **find the sum of the first and last digits** of a number.
 
 <img width="1536" height="1024" alt="img3" src="https://github.com/user-attachments/assets/decd65b5-6eee-4ff2-9a02-5e2068a6bf0e" />
 
-
 ```
-Input: 384
-Output: The sum of the first and the last digit: 7
+Input: 82647
+Output: The sum of the first and the last digit: 15
 ```
 
 ---
