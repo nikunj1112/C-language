@@ -1,17 +1,21 @@
-#include<stdio.h>
+// Q.3) Digit Addition
+// Develop a Program to find the sum of a number's first and last digits.
+
+#include <stdio.h>
 
 void main()
 {
-	int n,lastDigit,firstDigit,sum;
-	printf("Enter n :");
-	scanf("%d",&n);
-	
-	lastDigit = n%10; 
-	while(n>10) 
+	int num, lastDigit, firstDigit, sum;
+	printf("Enter any number:");
+	scanf("%d", &num);
+
+	lastDigit = num % 10;
+
+	while (num >= 10)
 	{
-		n = n / 10;
+		num = num / 10;
 	}
-	firstDigit=n;
-	sum=firstDigit+lastDigit;
-	printf("Sum of first and last digit is = %d",sum);
+	firstDigit = num;
+	sum = firstDigit + lastDigit;
+	printf("The sum of the first and the last digit: %d" , sum);
 }
