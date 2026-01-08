@@ -5,7 +5,7 @@ This document contains 3 C programs demonstrating loop, arithmetic operations, a
 ---
 
 ## ✅ **Q.1) Alphabet Skipper**  
-### Develop a program that prints all alphabets from "a' to "z' by skipping 3 alphabets using a do-while loop.
+## Develop a program that prints all alphabets from "a' to "z' by skipping 3 alphabets using a do-while loop.
 
 ### 📌 **Problem Statement**
 Develop a program that prints all alphabets from **'a' to 'z'** by **skipping 3 alphabets** using a **do-while loop**.
