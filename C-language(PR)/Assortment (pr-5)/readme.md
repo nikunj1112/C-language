@@ -1,4 +1,4 @@
-# 📘 Array & Matrix — C Programming Assignment (Theory Only)
+# 📘 Array & Matrix (Assortment) — C Programming Assignment
 
 This document contains **4 problem statements** related to **1D & 2D Arrays**.  
 Includes **Problem Description, Input, Output & Marking Scheme** — **No code included**.
