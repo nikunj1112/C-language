@@ -115,8 +115,8 @@ By practicing these programs, you will understand:
 ---
 
 ## 👨‍💻 Author
-Nikunj Rana
-🎓 C Programming Learner
-🚀 Aspiring Full Stack Developer
+*  Nikunj Rana
+* 🎓 C Programming Learner
+* 🚀 Aspiring Full Stack Developer
 
 ---
